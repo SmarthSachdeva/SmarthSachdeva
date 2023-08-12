@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey! I'm Smarth Sachdeva:
 👋 Greetings! I'm a passionate front-end web developer with expertise in React ⚛️, and I'm well-versed in the world of data structures and algorithms (DSA) using Java ☕. I'm all about turning design into seamless, interactive experiences while optimizing code for efficiency. Let's collaborate and create some web magic, all while crafting robust solutions behind the scenes! 🌟🎨👨‍💻<br><br>🚀 As a code crafter, I thrive on shaping user-centric interfaces and making them come alive. With a love for clean code, innovative solutions, and a solid grasp of DSA in Java, I'm on a mission to build engaging websites that leave a lasting impression. Join me on this exciting journey to explore the intersection of design, code, and algorithms! 🌐🚀
 
 
